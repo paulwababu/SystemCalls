@@ -7,7 +7,7 @@ The Go program below does the following basic operation:
                                   5. Process management(Start(open) mozilla firefox and,spawn and kill process using exec command)
                                     *6. EXTRA OPTION FOR PORT CHECKING TOOL*
 The Program also has options of scanning ports on remote servers, kindly do not use it for illegal purposes.
-The ip scanner comes in two, one of them is a basic port scanner which has only 5 threads
+The ip scanner comes in two, one of them is a basic port scanner
 therefore not as fast and efficient and the other I have used a library called Furious ID/Port Scanner.
 The difference between the two is that furious is fast, lightweight and can be deployed on a remote server.
 You would be required to install winPcap, on windows, on linux install libpcap with your package manager,
